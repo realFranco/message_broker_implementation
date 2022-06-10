@@ -1,4 +1,4 @@
-# message_broker_implementation
+# pub_sub_implementation
 
 ![python3](https://img.shields.io/badge/python-3.8.x-blue.svg?style=for-the-badge&logo=appveyor )
 
